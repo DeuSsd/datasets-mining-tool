@@ -1,0 +1,6 @@
+[submodule "dmt-web-server"]
+	path = dmt-web-server
+	url = https://github.com/DeuSsd/dmt-web-server
+[submodule "dmt-shardAPIs-Agent"]
+	path = dmt-shardAPIs-Agent
+	url = https://github.com/DeuSsd/dmt-shardAPIs-Agent
