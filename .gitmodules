@@ -4,3 +4,6 @@
 [submodule "dmt-shardAPIs-Agent"]
 	path = dmt-shardAPIs-Agent
 	url = https://github.com/DeuSsd/dmt-shardAPIs-Agent
+[submodule "dmt-webserver-backend"]
+	path = dmt-webserver-backend
+	url = https://github.com/yuriiwanchev/dmt-webserver-backend.git
