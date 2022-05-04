@@ -4,3 +4,6 @@
 [submodule "dmt-webserver-backend"]
 	path = dmt-webserver-backend
 	url = https://github.com/yuriiwanchev/dmt-webserver-backend.git
+[submodule "dmt-webserver-frontend"]
+	path = dmt-webserver-frontend
+	url = https://github.com/DeuSsd/dmt-webserver-frontend
